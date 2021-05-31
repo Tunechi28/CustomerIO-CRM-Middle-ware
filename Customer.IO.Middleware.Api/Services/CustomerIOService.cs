@@ -7,6 +7,10 @@ using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
 
+/*
+@author Henry Agbasi
+*/
+
 namespace Customer.IO.Middleware.Api.Services
 {
     public class CustomerIOService : ICustomerIOService
